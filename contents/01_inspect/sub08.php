@@ -7,13 +7,13 @@
 					<div class="inspect_top">
 						<div class="inr">
 							<ul>
-								<li class="top01"><a href="#"></a></li>
-								<li class="top02"><a href="#"></a></li>
-								<li class="top03"><a href="#"></a></li>
-								<li class="top04"><a href="#"></a></li>
-								<li class="top05"><a href="#"></a></li>
-								<li class="top06"><a href="#"></a></li>
-								<li class="top07"><a href="#"></a></li>
+								<li class="top01 on"><a href="#"></a></li>
+								<li class="top02 on"><a href="#"></a></li>
+								<li class="top03 on"><a href="#"></a></li>
+								<li class="top04 on"><a href="#"></a></li>
+								<li class="top05 on"><a href="#"></a></li>
+								<li class="top06 on"><a href="#"></a></li>
+								<li class="top07 on"><a href="#"></a></li>
 								<li class="top08 on">
 									<a href="#"></a>
 									<span>100%</span>
